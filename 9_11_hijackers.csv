@@ -1,0 +1,444 @@
+propertyIdentities__propertyIdentity__id,propertyIdentities__propertyIdentity__type,propertyIdentities__propertyIdentity__singleValued,sources,property__id,property__value,nodes__nodeclass__type,nodes__nodeclass__id,nodes__nodeclass__node__id,nodes__nodeclass__node__title,networks__network__sourceType,networks__network__source,networks__network__targetType,networks__network__target,networks__network__id,networks__network__isDirected,networks__network__isBinary,networks__network__allowSelfLoops,networks__network__property__id,networks__network__property__value,networks__network__link__source,networks__network__link__target,networks__network__link__value
+autoCalc-componentStatistics-dyadCount,number,FALSE,,autoCalc-componentStatistics-dyadCount,0,Agent,Agent,Majed Moqed,Majed Moqed,Agent,Agent,Role,Role,Agent x Role,TRUE,FALSE,TRUE,autoCalc-componentStatistics-dyadCount,0,Majed Moqed,Hani Hanjour,
+autoCalc-componentStatistics-isolateCount,number,FALSE,,autoCalc-componentStatistics-isolateCount,0,,,Khalid Al-Mihdhar,Khalid Al-Mihdhar,,,,,,,,,autoCalc-componentStatistics-isolateCount,6,Khalid Al-Mihdhar,Hani Hanjour,
+autoCalc-componentStatistics-triadCount,number,FALSE,,autoCalc-componentStatistics-triadCount,0,,,Hani Hanjour,Hani Hanjour,,,,,,,,,autoCalc-componentStatistics-triadCount,0,Khalid Al-Mihdhar,Nawaf Alhazmi,
+autoCalc-density,number,FALSE,,autoCalc-density,1.450851548,,,Nawaf Alhazmi,Nawaf Alhazmi,,,,,,,,,autoCalc-density,0.051944444,Hani Hanjour,Majed Moqed,
+autoCalc-densityAutoDetect,number,FALSE,,autoCalc-densityAutoDetect,1.450851548,,,Salem Alhazmi*,Salem Alhazmi*,,,,,,,,,autoCalc-densityAutoDetect,0.051944444,Hani Hanjour,Khalid Al-Mihdhar,
+autoCalc-diagonalEdgeStatistics-binary,number,FALSE,,autoCalc-diagonalEdgeStatistics-binary,3,,,Ahmed Alnami,Ahmed Alnami,,,,,,,,,autoCalc-diagonalEdgeStatistics-binary,1,Hani Hanjour,Nawaf Alhazmi,
+autoCalc-diagonalEdgeStatistics-len,number,FALSE,,autoCalc-diagonalEdgeStatistics-len,0,,,Ahmed Alghamdi,Ahmed Alghamdi,,,,,,,,,autoCalc-diagonalEdgeStatistics-len,0,Nawaf Alhazmi,Khalid Al-Mihdhar,
+autoCalc-diagonalEdgeStatistics-max,number,FALSE,,autoCalc-diagonalEdgeStatistics-max,0,,,Saeed Alghamdi*,Saeed Alghamdi*,,,,,,,,,autoCalc-diagonalEdgeStatistics-max,0,Nawaf Alhazmi,Hani Hanjour,
+autoCalc-diagonalEdgeStatistics-min,number,FALSE,,autoCalc-diagonalEdgeStatistics-min,0,,,Hamza Alghamdi,Hamza Alghamdi,,,,,,,,,autoCalc-diagonalEdgeStatistics-min,0,Nawaf Alhazmi,Salem Alhazmi*,
+autoCalc-diagonalEdgeStatistics-sum,number,FALSE,,autoCalc-diagonalEdgeStatistics-sum,0,,,Ahmed Al Haznawi,Ahmed Al Haznawi,,,,,,,,,autoCalc-diagonalEdgeStatistics-sum,0,Nawaf Alhazmi,Ahmed Alnami,
+autoCalc-diagonalEdgeStatistics-sumOfSquares,number,FALSE,,autoCalc-diagonalEdgeStatistics-sumOfSquares,0,,,Mohand Alshehri*,Mohand Alshehri*,,,,,,,,,autoCalc-diagonalEdgeStatistics-sumOfSquares,0,Nawaf Alhazmi,Saeed Alghamdi*,
+autoCalc-largeComponentStats-binary,number,FALSE,,autoCalc-largeComponentStats-binary,0,,,Fayez Ahmed,Fayez Ahmed,,,,,,,,,autoCalc-largeComponentStats-binary,0,Nawaf Alhazmi,Hamza Alghamdi,
+autoCalc-largeComponentStats-len,number,FALSE,,autoCalc-largeComponentStats-len,3,,,Ziad Jarrah,Ziad Jarrah,,,,,,,,,autoCalc-largeComponentStats-len,1,Salem Alhazmi*,Nawaf Alhazmi,
+autoCalc-largeComponentStats-max,number,FALSE,,autoCalc-largeComponentStats-max,242,,,Marwan Al-Shehhi,Marwan Al-Shehhi,,,,,,,,,autoCalc-largeComponentStats-max,114,Ahmed Alnami,Saeed Alghamdi*,
+autoCalc-largeComponentStats-min,number,FALSE,,autoCalc-largeComponentStats-min,242,,,Mohamed Atta,Mohamed Atta,,,,,,,,,autoCalc-largeComponentStats-min,114,Ahmed Alnami,Hamza Alghamdi,
+.???hy/jjMJJm,number,FALSE,,autoCalc-largeComponentStats-sum,242,,,Abdul Aziz Al-Omari*,Abdul Aziz Al-Omari*,,,,,,,,,autoCalc-largeComponentStats-sum,114,Ahmed Alghamdi,Hamza Alghamdi,
+autoCalc-largeComponentStats-sumOfSquares,number,FALSE,,autoCalc-largeComponentStats-sumOfSquares,21188,,,Waleed Alshehri,Waleed Alshehri,,,,,,,,,autoCalc-largeComponentStats-sumOfSquares,12996,Hamza Alghamdi,Ahmed Alnami,
+autoCalc-nonDiagonalEdgeStatistics-binary,number,FALSE,,autoCalc-nonDiagonalEdgeStatistics-binary,1,,,Wail Alshehri,Wail Alshehri,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-binary,1,Hamza Alghamdi,Ahmed Alghamdi,
+autoCalc-nonDiagonalEdgeStatistics-len,number,FALSE,,autoCalc-nonDiagonalEdgeStatistics-len,443,,,Satam Suqami,Satam Suqami,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-len,187,Hamza Alghamdi,Saeed Alghamdi*,
+autoCalc-nonDiagonalEdgeStatistics-max,number,FALSE,,autoCalc-nonDiagonalEdgeStatistics-max,11,,,Raed Hijazi,Raed Hijazi,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-max,1,Hamza Alghamdi,Ahmed Al Haznawi,
+autoCalc-nonDiagonalEdgeStatistics-min,number,FALSE,,autoCalc-nonDiagonalEdgeStatistics-min,3,,,Nabil al-Marabh,Nabil al-Marabh,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-min,1,Hamza Alghamdi,Mohand Alshehri*,
+autoCalc-nonDiagonalEdgeStatistics-sum,number,FALSE,,autoCalc-nonDiagonalEdgeStatistics-sum,919,,,Mustafa Ahamend al-Hisawi,Mustafa Ahamend al-Hisawi,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-sum,187,Ahmed Al Haznawi,Saeed Alghamdi*,
+autoCalc-nonDiagonalEdgeStatistics-sumOfSquares,number,FALSE,,autoCalc-nonDiagonalEdgeStatistics-sumOfSquares,2955,,,Mamoun Darkazanli,Mamoun Darkazanli,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-sumOfSquares,187,Ahmed Al Haznawi,Hamza Alghamdi,
+autoCalc-symmetric,number,FALSE,,autoCalc-symmetric,0,,,Zakariya Essabar,Zakariya Essabar,,,,,,,,,autoCalc-symmetric,0,Ahmed Al Haznawi,Ziad Jarrah,
+unionCount,number,TRUE,,unionCount,3,,,Said Bahaji,Said Bahaji,,,,,,,,,,,Mohand Alshehri*,Hamza Alghamdi,
+,,,,,,,,Mounir El Motassadeq,Mounir El Motassadeq,,,,,,,,,,,Mohand Alshehri*,Fayez Ahmed,
+,,,,,,,,Zacarias Moussaoui,Zacarias Moussaoui,,,,,,,,,,,Fayez Ahmed,Mohand Alshehri*,
+,,,,,,,,Ramzi Bin al-Shibh,Ramzi Bin al-Shibh,,,,,,,,,,,Fayez Ahmed,Marwan Al-Shehhi,
+,,,,,,,,Agus Budiman,Agus Budiman,,,,,,,,,,,Ziad Jarrah,Ahmed Al Haznawi,
+,,,,,,,,Ahed Khalil Ibrahim Samir Al-Ani,Ahed Khalil Ibrahim Samir Al-Ani,,,,,,,,,,,Ziad Jarrah,Marwan Al-Shehhi,
+,,,,,,,,Lofti Raissi,Lofti Raissi,,,,,,,,,,,Ziad Jarrah,Mohamed Atta,
+,,,,,,,,Rayed Mohammed Abdullah,Rayed Mohammed Abdullah,,,,,,,,,,,Marwan Al-Shehhi,Fayez Ahmed,
+,,,,,,,,Bandar Alhazmi,Bandar Alhazmi,,,,,,,,,,,Marwan Al-Shehhi,Ziad Jarrah,
+,,,,,,,,Faisal Al Salmi,Faisal Al Salmi,,,,,,,,,,,Marwan Al-Shehhi,Mohamed Atta,
+,,,,,,,,Osama Awadallah,Osama Awadallah,,,,,,,,,,,Marwan Al-Shehhi,Abdul Aziz Al-Omari*,
+,,,,,,,,Abdussattar Shaikh,Abdussattar Shaikh,,,,,,,,,,,Mohamed Atta,Ziad Jarrah,
+,,,,,,,,Mohamed Abdi,Mohamed Abdi,,,,,,,,,,,Mohamed Atta,Marwan Al-Shehhi,
+,,,,,,,,Mohamed Belfas,Mohamed Belfas,,,,,,,,,,,Mohamed Atta,Abdul Aziz Al-Omari*,
+,,,,,,,,Imad Eddin Baraat Yarkas,Imad Eddin Baraat Yarkas,,,,,,,,,,,Abdul Aziz Al-Omari*,Marwan Al-Shehhi,
+,,,,,,,,Tarek Maaroufi,Tarek Maaroufi,,,,,,,,,,,Abdul Aziz Al-Omari*,Mohamed Atta,
+,,,,,,,,Abu Qatada,Abu Qatada,,,,,,,,,,,Abdul Aziz Al-Omari*,Waleed Alshehri,
+,,,,,,,,Djamal Benghal,Djamal Benghal,,,,,,,,,,,Waleed Alshehri,Abdul Aziz Al-Omari*,
+,,,,,,,,Jerome Courtaillier,Jerome Courtaillier,,,,,,,,,,,Waleed Alshehri,Wail Alshehri,
+,,,,,,,,David Courtaillier,David Courtaillier,,,,,,,,,,,Waleed Alshehri,Satam Suqami,
+,,,,,,,,Ahmen Ressam,Ahmen Ressam,,,,,,,,,,,Wail Alshehri,Waleed Alshehri,
+,,,,,,,,Abu Walid,Abu Walid,,,,,,,,,,,Wail Alshehri,Satam Suqami,
+,,,,,,,,Jean-Marc Grandvisir,Jean-Marc Grandvisir,,,,,,,,,,,Satam Suqami,Waleed Alshehri,
+,,,,,,,,Abu Zubeida,Abu Zubeida,,,,,,,,,,,Satam Suqami,Wail Alshehri,
+,,,,,,,,Nizar Trabelsi,Nizar Trabelsi,,,,,,,,,,,Raed Hijazi,Saeed Alghamdi*,
+,,,,,,,,Haydar Abu Doha,Haydar Abu Doha,,,,,,,,,,,Raed Hijazi,Satam Suqami,
+,,,,,,,,Mehdi Khammoun,Mehdi Khammoun,,,,,,,,,,,Raed Hijazi,Nabil al-Marabh,
+,,,,,,,,Mohammed Bensakhria,Mohammed Bensakhria,,,,,,,,,,,Nabil al-Marabh,Ahmed Alghamdi,
+,,,,,,,,Lased Ben Heni,Lased Ben Heni,,,,,,,,,,,Nabil al-Marabh,Saeed Alghamdi*,
+,,,,,,,,Essid Sami Ben Khemail,Essid Sami Ben Khemail,,,,,,,,,,,Nabil al-Marabh,Satam Suqami,
+,,,,,,,,Seifallah ben Hassine,Seifallah ben Hassine,,,,,,,,,,,Nabil al-Marabh,Raed Hijazi,
+,,,,,,,,Essoussi Laaroussi,Essoussi Laaroussi,,,,,,,,,,,Mustafa Ahamend al-Hisawi,Fayez Ahmed,
+,,,,,,,,Fahid al Shakri,Fahid al Shakri,,,,,,,,,,,Mustafa Ahamend al-Hisawi,Marwan Al-Shehhi,
+,,,,,,,,Madjid Sahoune,Madjid Sahoune,,,,,,,,,,,Mustafa Ahamend al-Hisawi,Mohamed Atta,
+,,,,,,,,Samir Kishk,Samir Kishk,,,,,,,,,,,Mustafa Ahamend al-Hisawi,Waleed Alshehri,
+,,,,,,,,Kamel Daoudi,Kamel Daoudi,,,,,,,,,,,Mamoun Darkazanli,Marwan Al-Shehhi,
+,,,,,,,,Takek Maaroufi,Takek Maaroufi,,,,,,,,,,,Mamoun Darkazanli,Mohamed Atta,
+,,,,,,Role,Role,Majed Moqed,Majed Moqed,,,,,,,,,,,Mamoun Darkazanli,Said Bahaji,
+,,,,,,,,Khalid Al-Mihdhar,Khalid Al-Mihdhar,,,,,,,,,,,Zakariya Essabar,Ziad Jarrah,
+,,,,,,,,Hani Hanjour,Hani Hanjour,,,,,,,,,,,Zakariya Essabar,Marwan Al-Shehhi,
+,,,,,,,,Nawaf Alhazmi,Nawaf Alhazmi,,,,,,,,,,,Zakariya Essabar,Mohamed Atta,
+,,,,,,,,Salem Alhazmi*,Salem Alhazmi*,,,,,,,,,,,Zakariya Essabar,Said Bahaji,
+,,,,,,,,Ahmed Alnami,Ahmed Alnami,,,,,,,,,,,Zakariya Essabar,Ramzi Bin al-Shibh,
+,,,,,,,,Ahmed Alghamdi,Ahmed Alghamdi,,,,,,,,,,,Said Bahaji,Ziad Jarrah,
+,,,,,,,,Saeed Alghamdi*,Saeed Alghamdi*,,,,,,,,,,,Said Bahaji,Marwan Al-Shehhi,
+,,,,,,,,Hamza Alghamdi,Hamza Alghamdi,,,,,,,,,,,Said Bahaji,Mohamed Atta,
+,,,,,,,,Ahmed Al Haznawi,Ahmed Al Haznawi,,,,,,,,,,,Said Bahaji,Mamoun Darkazanli,
+,,,,,,,,Mohand Alshehri*,Mohand Alshehri*,,,,,,,,,,,Said Bahaji,Zakariya Essabar,
+,,,,,,,,Fayez Ahmed,Fayez Ahmed,,,,,,,,,,,Said Bahaji,Mounir El Motassadeq,
+,,,,,,,,Ziad Jarrah,Ziad Jarrah,,,,,,,,,,,Said Bahaji,Ramzi Bin al-Shibh,
+,,,,,,,,Marwan Al-Shehhi,Marwan Al-Shehhi,,,,,,,,,,,Mounir El Motassadeq,Marwan Al-Shehhi,
+,,,,,,,,Mohamed Atta,Mohamed Atta,,,,,,,,,,,Mounir El Motassadeq,Mohamed Atta,
+,,,,,,,,Abdul Aziz Al-Omari*,Abdul Aziz Al-Omari*,,,,,,,,,,,Mounir El Motassadeq,Said Bahaji,
+,,,,,,,,Waleed Alshehri,Waleed Alshehri,,,,,,,,,,,Mounir El Motassadeq,Ramzi Bin al-Shibh,
+,,,,,,,,Wail Alshehri,Wail Alshehri,,,,,,,,,,,Zacarias Moussaoui,Mohamed Atta,
+,,,,,,,,Satam Suqami,Satam Suqami,,,,,,,,,,,Zacarias Moussaoui,Ramzi Bin al-Shibh,
+,,,,,,,,Raed Hijazi,Raed Hijazi,,,,,,,,,,,Zacarias Moussaoui,Abu Qatada,
+,,,,,,,,Nabil al-Marabh,Nabil al-Marabh,,,,,,,,,,,Zacarias Moussaoui,Djamal Benghal,
+,,,,,,,,Mustafa Ahamend al-Hisawi,Mustafa Ahamend al-Hisawi,,,,,,,,,,,Zacarias Moussaoui,Jerome Courtaillier,
+,,,,,,,,Mamoun Darkazanli,Mamoun Darkazanli,,,,,,,,,,,Zacarias Moussaoui,David Courtaillier,
+,,,,,,,,Zakariya Essabar,Zakariya Essabar,,,,,,,,,,,Zacarias Moussaoui,Ahmen Ressam,
+,,,,,,,,Said Bahaji,Said Bahaji,,,,,,,,,,,Ramzi Bin al-Shibh,Ziad Jarrah,
+,,,,,,,,Mounir El Motassadeq,Mounir El Motassadeq,,,,,,,,,,,Ramzi Bin al-Shibh,Marwan Al-Shehhi,
+,,,,,,,,Zacarias Moussaoui,Zacarias Moussaoui,,,,,,,,,,,Ramzi Bin al-Shibh,Mohamed Atta,
+,,,,,,,,Ramzi Bin al-Shibh,Ramzi Bin al-Shibh,,,,,,,,,,,Ramzi Bin al-Shibh,Zakariya Essabar,
+,,,,,,,,Agus Budiman,Agus Budiman,,,,,,,,,,,Ramzi Bin al-Shibh,Said Bahaji,
+,,,,,,,,Ahed Khalil Ibrahim Samir Al-Ani,Ahed Khalil Ibrahim Samir Al-Ani,,,,,,,,,,,Ramzi Bin al-Shibh,Mounir El Motassadeq,
+,,,,,,,,Lofti Raissi,Lofti Raissi,,,,,,,,,,,Ramzi Bin al-Shibh,Zacarias Moussaoui,
+,,,,,,,,Rayed Mohammed Abdullah,Rayed Mohammed Abdullah,,,,,,,,,,,Ramzi Bin al-Shibh,Agus Budiman,
+,,,,,,,,Bandar Alhazmi,Bandar Alhazmi,,,,,,,,,,,Agus Budiman,Ziad Jarrah,
+,,,,,,,,Faisal Al Salmi,Faisal Al Salmi,,,,,,,,,,,Agus Budiman,Marwan Al-Shehhi,
+,,,,,,,,Osama Awadallah,Osama Awadallah,,,,,,,,,,,Agus Budiman,Mohamed Atta,
+,,,,,,,,Abdussattar Shaikh,Abdussattar Shaikh,,,,,,,,,,,Agus Budiman,Ramzi Bin al-Shibh,
+,,,,,,,,Mohamed Abdi,Mohamed Abdi,,,,,,,,,,,Ahed Khalil Ibrahim Samir Al-Ani,Mohamed Atta,
+,,,,,,,,Mohamed Belfas,Mohamed Belfas,,,,,,,,,,,Lofti Raissi,Hani Hanjour,
+,,,,,,,,Imad Eddin Baraat Yarkas,Imad Eddin Baraat Yarkas,,,,,,,,,,,Lofti Raissi,Ziad Jarrah,
+,,,,,,,,Tarek Maaroufi,Tarek Maaroufi,,,,,,,,,,,Lofti Raissi,Marwan Al-Shehhi,
+,,,,,,,,Abu Qatada,Abu Qatada,,,,,,,,,,,Lofti Raissi,Mohamed Atta,
+,,,,,,,,Djamal Benghal,Djamal Benghal,,,,,,,,,,,Lofti Raissi,Rayed Mohammed Abdullah,
+,,,,,,,,Jerome Courtaillier,Jerome Courtaillier,,,,,,,,,,,Rayed Mohammed Abdullah,Hani Hanjour,
+,,,,,,,,David Courtaillier,David Courtaillier,,,,,,,,,,,Rayed Mohammed Abdullah,Rayed Mohammed Abdullah,
+,,,,,,,,Ahmen Ressam,Ahmen Ressam,,,,,,,,,,,Rayed Mohammed Abdullah,Bandar Alhazmi,
+,,,,,,,,Abu Walid,Abu Walid,,,,,,,,,,,Rayed Mohammed Abdullah,Faisal Al Salmi,
+,,,,,,,,Jean-Marc Grandvisir,Jean-Marc Grandvisir,,,,,,,,,,,Bandar Alhazmi,Hani Hanjour,
+,,,,,,,,Abu Zubeida,Abu Zubeida,,,,,,,,,,,Bandar Alhazmi,Rayed Mohammed Abdullah,
+,,,,,,,,Nizar Trabelsi,Nizar Trabelsi,,,,,,,,,,,Faisal Al Salmi,Hani Hanjour,
+,,,,,,,,Haydar Abu Doha,Haydar Abu Doha,,,,,,,,,,,Faisal Al Salmi,Rayed Mohammed Abdullah,
+,,,,,,,,Mehdi Khammoun,Mehdi Khammoun,,,,,,,,,,,Osama Awadallah,Khalid Al-Mihdhar,
+,,,,,,,,Mohammed Bensakhria,Mohammed Bensakhria,,,,,,,,,,,Osama Awadallah,Nawaf Alhazmi,
+,,,,,,,,Lased Ben Heni,Lased Ben Heni,,,,,,,,,,,Osama Awadallah,Abdussattar Shaikh,
+,,,,,,,,Essid Sami Ben Khemail,Essid Sami Ben Khemail,,,,,,,,,,,Abdussattar Shaikh,Khalid Al-Mihdhar,
+,,,,,,,,Seifallah ben Hassine,Seifallah ben Hassine,,,,,,,,,,,Abdussattar Shaikh,Nawaf Alhazmi,
+,,,,,,,,Essoussi Laaroussi,Essoussi Laaroussi,,,,,,,,,,,Abdussattar Shaikh,Osama Awadallah,
+,,,,,,,,Fahid al Shakri,Fahid al Shakri,,,,,,,,,,,Mohamed Abdi,Nawaf Alhazmi,
+,,,,,,,,Madjid Sahoune,Madjid Sahoune,,,,,,,,,,,Mohamed Belfas,Agus Budiman,
+,,,,,,,,Samir Kishk,Samir Kishk,,,,,,,,,,,Mohamed Belfas,Ahed Khalil Ibrahim Samir Al-Ani,
+,,,,,,,,Kamel Daoudi,Kamel Daoudi,,,,,,,,,,,Imad Eddin Baraat Yarkas,Mohamed Atta,
+,,,,,,Event,Event,Network Strength,Network Strength,,,,,,,,,,,Imad Eddin Baraat Yarkas,Ramzi Bin al-Shibh,
+,,,,,,,,Ties,Ties,,,,,,,,,,,Imad Eddin Baraat Yarkas,Abu Qatada,
+,,,,,,,,Las Vegas Meeting,Las Vegas Meeting,,,,,,,,,,,Tarek Maaroufi,Imad Eddin Baraat Yarkas,
+,,,,,,Action,Action,Network Strength,Network Strength,,,,,,,,,,,Tarek Maaroufi,Abu Qatada,
+,,,,,,,,Ties,Ties,,,,,,,,,,,Tarek Maaroufi,Mohammed Bensakhria,
+,,,,,,,,Las Vegas Meeting,Las Vegas Meeting,,,,,,,,,,,Tarek Maaroufi,Essid Sami Ben Khemail,
+,,,,,,,,,,,,,,,,,,,,Tarek Maaroufi,Seifallah ben Hassine,
+,,,,,,,,,,,,,,,,,,,,Tarek Maaroufi,Essoussi Laaroussi,
+,,,,,,,,,,,,,,,,,,,,Abu Qatada,Zacarias Moussaoui,
+,,,,,,,,,,,,,,,,,,,,Abu Qatada,Imad Eddin Baraat Yarkas,
+,,,,,,,,,,,,,,,,,,,,Abu Qatada,Djamal Benghal,
+,,,,,,,,,,,,,,,,,,,,Abu Qatada,Abu Walid,
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Zacarias Moussaoui,
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Abu Qatada,
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Jerome Courtaillier,
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,David Courtaillier,
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Abu Walid,
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Jean-Marc Grandvisir,
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Abu Zubeida,
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Nizar Trabelsi,
+,,,,,,,,,,,,,,,,,,,,Jerome Courtaillier,Zacarias Moussaoui,
+,,,,,,,,,,,,,,,,,,,,Jerome Courtaillier,Djamal Benghal,
+,,,,,,,,,,,,,,,,,,,,Jerome Courtaillier,David Courtaillier,
+,,,,,,,,,,,,,,,,,,,,Jerome Courtaillier,Kamel Daoudi,
+,,,,,,,,,,,,,,,,,,,,David Courtaillier,Zacarias Moussaoui,
+,,,,,,,,,,,,,,,,,,,,David Courtaillier,Jerome Courtaillier,
+,,,,,,,,,,,,,,,,,,,,Ahmen Ressam,Zacarias Moussaoui,
+,,,,,,,,,,,,,,,,,,,,Ahmen Ressam,Haydar Abu Doha,
+,,,,,,,,,,,,,,,,,,,,Abu Walid,Abu Qatada,
+,,,,,,,,,,,,,,,,,,,,Abu Walid,Djamal Benghal,
+,,,,,,,,,,,,,,,,,,,,Abu Walid,Kamel Daoudi,
+,,,,,,,,,,,,,,,,,,,,Jean-Marc Grandvisir,Djamal Benghal,
+,,,,,,,,,,,,,,,,,,,,Abu Zubeida,Djamal Benghal,
+,,,,,,,,,,,,,,,,,,,,Nizar Trabelsi,Djamal Benghal,
+,,,,,,,,,,,,,,,,,,,,Haydar Abu Doha,Ahmen Ressam,
+,,,,,,,,,,,,,,,,,,,,Haydar Abu Doha,Essid Sami Ben Khemail,
+,,,,,,,,,,,,,,,,,,,,Haydar Abu Doha,Madjid Sahoune,
+,,,,,,,,,,,,,,,,,,,,Mehdi Khammoun,Haydar Abu Doha,
+,,,,,,,,,,,,,,,,,,,,Mehdi Khammoun,Mohammed Bensakhria,
+,,,,,,,,,,,,,,,,,,,,Mehdi Khammoun,Essid Sami Ben Khemail,
+,,,,,,,,,,,,,,,,,,,,Mohammed Bensakhria,Mehdi Khammoun,
+,,,,,,,,,,,,,,,,,,,,Mohammed Bensakhria,Lased Ben Heni,
+,,,,,,,,,,,,,,,,,,,,Mohammed Bensakhria,Essid Sami Ben Khemail,
+,,,,,,,,,,,,,,,,,,,,Lased Ben Heni,Mohammed Bensakhria,
+,,,,,,,,,,,,,,,,,,,,Lased Ben Heni,Essid Sami Ben Khemail,
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Mohamed Atta,
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Haydar Abu Doha,
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Mehdi Khammoun,
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Mohammed Bensakhria,
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Lased Ben Heni,
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Seifallah ben Hassine,
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Essoussi Laaroussi,
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Fahid al Shakri,
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Madjid Sahoune,
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Samir Kishk,
+,,,,,,,,,,,,,,,,,,,,Seifallah ben Hassine,Essid Sami Ben Khemail,
+,,,,,,,,,,,,,,,,,,,,Essoussi Laaroussi,Essid Sami Ben Khemail,
+,,,,,,,,,,,,,,,,,,,,Fahid al Shakri,Essid Sami Ben Khemail,
+,,,,,,,,,,,,,,,,,,,,Madjid Sahoune,Essid Sami Ben Khemail,
+,,,,,,,,,,,,,,,,,,,,Samir Kishk,Essid Sami Ben Khemail,
+,,,,,,,,,,,,,,,,,,,,Kamel Daoudi,Zacarias Moussaoui,
+,,,,,,,,,,,,,,,,,,,,Kamel Daoudi,Abu Qatada,
+,,,,,,,,,,,,,,,,,,,,Kamel Daoudi,Djamal Benghal,
+,,,,,,,,,,,,,,,,,,,,Kamel Daoudi,Jerome Courtaillier,
+,,,,,,,,,,,,,,,,,,,,Kamel Daoudi,David Courtaillier,
+,,,,,,,,,,,,,,,,,,,,Kamel Daoudi,Abu Walid,
+,,,,,,,,,,Agent,Agent,Event,Event,Agent x Event,TRUE,FALSE,TRUE,autoCalc-componentStatistics-dyadCount,0,Majed Moqed,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-componentStatistics-isolateCount,0,Majed Moqed,Ties,2
+,,,,,,,,,,,,,,,,,,autoCalc-componentStatistics-triadCount,0,Khalid Al-Mihdhar,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-density,0.699453552,Khalid Al-Mihdhar,Ties,2
+,,,,,,,,,,,,,,,,,,autoCalc-densityAutoDetect,0.699453552,Hani Hanjour,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-binary,1,Hani Hanjour,Ties,2
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-len,0,Hani Hanjour,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-max,0,Nawaf Alhazmi,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-min,0,Nawaf Alhazmi,Ties,2
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-sum,0,Nawaf Alhazmi,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-sumOfSquares,0,Salem Alhazmi*,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-binary,0,Salem Alhazmi*,Ties,2
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-len,1,Salem Alhazmi*,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-max,64,Ahmed Alnami,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-min,64,Ahmed Alnami,Ties,3
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-sum,64,Ahmed Alghamdi,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-sumOfSquares,4096,Ahmed Alghamdi,Ties,4
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-binary,0,Saeed Alghamdi*,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-len,128,Saeed Alghamdi*,Ties,3
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-max,5,Hamza Alghamdi,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-min,1,Hamza Alghamdi,Ties,4
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-sum,366,Ahmed Al Haznawi,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-sumOfSquares,1384,Ahmed Al Haznawi,Ties,3
+,,,,,,,,,,,,,,,,,,autoCalc-symmetric,0,Mohand Alshehri*,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Mohand Alshehri*,Ties,4
+,,,,,,,,,,,,,,,,,,,,Fayez Ahmed,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Fayez Ahmed,Ties,4
+,,,,,,,,,,,,,,,,,,,,Ziad Jarrah,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Ziad Jarrah,Ties,3
+,,,,,,,,,,,,,,,,,,,,Ziad Jarrah,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,,,Marwan Al-Shehhi,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Marwan Al-Shehhi,Ties,4
+,,,,,,,,,,,,,,,,,,,,Marwan Al-Shehhi,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,,,Mohamed Atta,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Mohamed Atta,Ties,
+,,,,,,,,,,,,,,,,,,,,Mohamed Atta,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,,,Abdul Aziz Al-Omari*,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Abdul Aziz Al-Omari*,Ties,
+,,,,,,,,,,,,,,,,,,,,Waleed Alshehri,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Waleed Alshehri,Ties,
+,,,,,,,,,,,,,,,,,,,,Wail Alshehri,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Wail Alshehri,Ties,
+,,,,,,,,,,,,,,,,,,,,Satam Suqami,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Satam Suqami,Ties,
+,,,,,,,,,,,,,,,,,,,,Raed Hijazi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Raed Hijazi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Nabil al-Marabh,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Nabil al-Marabh,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mustafa Ahamend al-Hisawi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mustafa Ahamend al-Hisawi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mamoun Darkazanli,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mamoun Darkazanli,Ties,5
+,,,,,,,,,,,,,,,,,,,,Zakariya Essabar,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Zakariya Essabar,Ties,5
+,,,,,,,,,,,,,,,,,,,,Said Bahaji,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Said Bahaji,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mounir El Motassadeq,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mounir El Motassadeq,Ties,5
+,,,,,,,,,,,,,,,,,,,,Zacarias Moussaoui,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Zacarias Moussaoui,Ties,5
+,,,,,,,,,,,,,,,,,,,,Ramzi Bin al-Shibh,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Ramzi Bin al-Shibh,Ties,5
+,,,,,,,,,,,,,,,,,,,,Agus Budiman,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Agus Budiman,Ties,5
+,,,,,,,,,,,,,,,,,,,,Ahed Khalil Ibrahim Samir Al-Ani,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Ahed Khalil Ibrahim Samir Al-Ani,Ties,5
+,,,,,,,,,,,,,,,,,,,,Lofti Raissi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Lofti Raissi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Rayed Mohammed Abdullah,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Rayed Mohammed Abdullah,Ties,5
+,,,,,,,,,,,,,,,,,,,,Bandar Alhazmi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Bandar Alhazmi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Faisal Al Salmi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Faisal Al Salmi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Osama Awadallah,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Osama Awadallah,Ties,5
+,,,,,,,,,,,,,,,,,,,,Abdussattar Shaikh,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Abdussattar Shaikh,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mohamed Abdi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mohamed Abdi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mohamed Belfas,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mohamed Belfas,Ties,5
+,,,,,,,,,,,,,,,,,,,,Imad Eddin Baraat Yarkas,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Imad Eddin Baraat Yarkas,Ties,5
+,,,,,,,,,,,,,,,,,,,,Tarek Maaroufi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Tarek Maaroufi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Abu Qatada,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Abu Qatada,Ties,5
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Ties,5
+,,,,,,,,,,,,,,,,,,,,Jerome Courtaillier,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Jerome Courtaillier,Ties,5
+,,,,,,,,,,,,,,,,,,,,David Courtaillier,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,David Courtaillier,Ties,5
+,,,,,,,,,,,,,,,,,,,,Ahmen Ressam,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Ahmen Ressam,Ties,5
+,,,,,,,,,,,,,,,,,,,,Abu Walid,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Abu Walid,Ties,5
+,,,,,,,,,,,,,,,,,,,,Jean-Marc Grandvisir,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Jean-Marc Grandvisir,Ties,5
+,,,,,,,,,,,,,,,,,,,,Abu Zubeida,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Abu Zubeida,Ties,5
+,,,,,,,,,,,,,,,,,,,,Nizar Trabelsi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Nizar Trabelsi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Haydar Abu Doha,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Haydar Abu Doha,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mehdi Khammoun,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mehdi Khammoun,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mohammed Bensakhria,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mohammed Bensakhria,Ties,5
+,,,,,,,,,,,,,,,,,,,,Lased Ben Heni,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Lased Ben Heni,Ties,5
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Ties,5
+,,,,,,,,,,,,,,,,,,,,Seifallah ben Hassine,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Seifallah ben Hassine,Ties,5
+,,,,,,,,,,,,,,,,,,,,Essoussi Laaroussi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Essoussi Laaroussi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Fahid al Shakri,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Fahid al Shakri,Ties,5
+,,,,,,,,,,,,,,,,,,,,Madjid Sahoune,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Madjid Sahoune,Ties,5
+,,,,,,,,,,,,,,,,,,,,Samir Kishk,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Samir Kishk,Ties,5
+,,,,,,,,,,,,,,,,,,,,Kamel Daoudi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Kamel Daoudi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Takek Maaroufi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Takek Maaroufi,Ties,5
+,,,,,,,,,,Agent,Agent,Action,Action,Agent x Action,TRUE,FALSE,TRUE,autoCalc-componentStatistics-dyadCount,0,Majed Moqed,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-componentStatistics-isolateCount,0,Majed Moqed,Ties,2
+,,,,,,,,,,,,,,,,,,autoCalc-componentStatistics-triadCount,0,Khalid Al-Mihdhar,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-density,0.699453552,Khalid Al-Mihdhar,Ties,2
+,,,,,,,,,,,,,,,,,,autoCalc-densityAutoDetect,0.699453552,Hani Hanjour,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-binary,1,Hani Hanjour,Ties,2
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-len,0,Hani Hanjour,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-max,0,Nawaf Alhazmi,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-min,0,Nawaf Alhazmi,Ties,2
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-sum,0,Nawaf Alhazmi,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,autoCalc-diagonalEdgeStatistics-sumOfSquares,0,Salem Alhazmi*,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-binary,0,Salem Alhazmi*,Ties,2
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-len,1,Salem Alhazmi*,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-max,64,Ahmed Alnami,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-min,64,Ahmed Alnami,Ties,3
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-sum,64,Ahmed Alghamdi,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-largeComponentStats-sumOfSquares,4096,Ahmed Alghamdi,Ties,4
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-binary,0,Saeed Alghamdi*,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-len,128,Saeed Alghamdi*,Ties,3
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-max,5,Hamza Alghamdi,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-min,1,Hamza Alghamdi,Ties,4
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-sum,366,Ahmed Al Haznawi,Network Strength,
+,,,,,,,,,,,,,,,,,,autoCalc-nonDiagonalEdgeStatistics-sumOfSquares,1384,Ahmed Al Haznawi,Ties,3
+,,,,,,,,,,,,,,,,,,autoCalc-symmetric,0,Mohand Alshehri*,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Mohand Alshehri*,Ties,4
+,,,,,,,,,,,,,,,,,,,,Fayez Ahmed,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Fayez Ahmed,Ties,4
+,,,,,,,,,,,,,,,,,,,,Ziad Jarrah,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Ziad Jarrah,Ties,3
+,,,,,,,,,,,,,,,,,,,,Ziad Jarrah,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,,,Marwan Al-Shehhi,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Marwan Al-Shehhi,Ties,4
+,,,,,,,,,,,,,,,,,,,,Marwan Al-Shehhi,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,,,Mohamed Atta,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Mohamed Atta,Ties,
+,,,,,,,,,,,,,,,,,,,,Mohamed Atta,Las Vegas Meeting,
+,,,,,,,,,,,,,,,,,,,,Abdul Aziz Al-Omari*,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Abdul Aziz Al-Omari*,Ties,
+,,,,,,,,,,,,,,,,,,,,Waleed Alshehri,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Waleed Alshehri,Ties,
+,,,,,,,,,,,,,,,,,,,,Wail Alshehri,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Wail Alshehri,Ties,
+,,,,,,,,,,,,,,,,,,,,Satam Suqami,Network Strength,
+,,,,,,,,,,,,,,,,,,,,Satam Suqami,Ties,
+,,,,,,,,,,,,,,,,,,,,Raed Hijazi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Raed Hijazi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Nabil al-Marabh,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Nabil al-Marabh,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mustafa Ahamend al-Hisawi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mustafa Ahamend al-Hisawi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mamoun Darkazanli,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mamoun Darkazanli,Ties,5
+,,,,,,,,,,,,,,,,,,,,Zakariya Essabar,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Zakariya Essabar,Ties,5
+,,,,,,,,,,,,,,,,,,,,Said Bahaji,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Said Bahaji,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mounir El Motassadeq,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mounir El Motassadeq,Ties,5
+,,,,,,,,,,,,,,,,,,,,Zacarias Moussaoui,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Zacarias Moussaoui,Ties,5
+,,,,,,,,,,,,,,,,,,,,Ramzi Bin al-Shibh,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Ramzi Bin al-Shibh,Ties,5
+,,,,,,,,,,,,,,,,,,,,Agus Budiman,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Agus Budiman,Ties,5
+,,,,,,,,,,,,,,,,,,,,Ahed Khalil Ibrahim Samir Al-Ani,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Ahed Khalil Ibrahim Samir Al-Ani,Ties,5
+,,,,,,,,,,,,,,,,,,,,Lofti Raissi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Lofti Raissi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Rayed Mohammed Abdullah,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Rayed Mohammed Abdullah,Ties,5
+,,,,,,,,,,,,,,,,,,,,Bandar Alhazmi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Bandar Alhazmi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Faisal Al Salmi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Faisal Al Salmi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Osama Awadallah,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Osama Awadallah,Ties,5
+,,,,,,,,,,,,,,,,,,,,Abdussattar Shaikh,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Abdussattar Shaikh,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mohamed Abdi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mohamed Abdi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mohamed Belfas,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mohamed Belfas,Ties,5
+,,,,,,,,,,,,,,,,,,,,Imad Eddin Baraat Yarkas,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Imad Eddin Baraat Yarkas,Ties,5
+,,,,,,,,,,,,,,,,,,,,Tarek Maaroufi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Tarek Maaroufi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Abu Qatada,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Abu Qatada,Ties,5
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Djamal Benghal,Ties,5
+,,,,,,,,,,,,,,,,,,,,Jerome Courtaillier,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Jerome Courtaillier,Ties,5
+,,,,,,,,,,,,,,,,,,,,David Courtaillier,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,David Courtaillier,Ties,5
+,,,,,,,,,,,,,,,,,,,,Ahmen Ressam,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Ahmen Ressam,Ties,5
+,,,,,,,,,,,,,,,,,,,,Abu Walid,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Abu Walid,Ties,5
+,,,,,,,,,,,,,,,,,,,,Jean-Marc Grandvisir,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Jean-Marc Grandvisir,Ties,5
+,,,,,,,,,,,,,,,,,,,,Abu Zubeida,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Abu Zubeida,Ties,5
+,,,,,,,,,,,,,,,,,,,,Nizar Trabelsi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Nizar Trabelsi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Haydar Abu Doha,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Haydar Abu Doha,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mehdi Khammoun,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mehdi Khammoun,Ties,5
+,,,,,,,,,,,,,,,,,,,,Mohammed Bensakhria,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Mohammed Bensakhria,Ties,5
+,,,,,,,,,,,,,,,,,,,,Lased Ben Heni,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Lased Ben Heni,Ties,5
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Essid Sami Ben Khemail,Ties,5
+,,,,,,,,,,,,,,,,,,,,Seifallah ben Hassine,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Seifallah ben Hassine,Ties,5
+,,,,,,,,,,,,,,,,,,,,Essoussi Laaroussi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Essoussi Laaroussi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Fahid al Shakri,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Fahid al Shakri,Ties,5
+,,,,,,,,,,,,,,,,,,,,Madjid Sahoune,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Madjid Sahoune,Ties,5
+,,,,,,,,,,,,,,,,,,,,Samir Kishk,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Samir Kishk,Ties,5
+,,,,,,,,,,,,,,,,,,,,Kamel Daoudi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Kamel Daoudi,Ties,5
+,,,,,,,,,,,,,,,,,,,,Takek Maaroufi,Network Strength,2
+,,,,,,,,,,,,,,,,,,,,Takek Maaroufi,Ties,5
